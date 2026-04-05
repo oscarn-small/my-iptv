@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TNT Sports 1" group-title="Sports",TNT Sports 1
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=d2c0bdce5f87e50b6ff863da6fe0b7e3ac55cd7741348f92a4cb217afc1e18cd.1775388411.77530392f0f8667e5713ccfcd816fbd7.8b026bd5247dbb53bb2c9e341b724c91.3a000d8afafd77718a266db67ed5446f&signature=f0e146b7c5a2c4d6c340fd8bbbed7f44d808464599d83efed52b3b7b4f49d53a
