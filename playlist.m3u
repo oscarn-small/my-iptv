@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="UK SPORTS" group-title="Sports",UK SPORTS
-https://iptv-org.github.io/iptv/categories/sports.m3u
+#EXTINF:-1 tvg-name="TNT Sports 1" group-title="Sports",TNT Sports 1
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=485e251cebf41f0309a1bddeb75e8d34660c866fdef105f79309c7b018d46002.1775505555.52ac2dad18d591887c2cca28b0262559.678b627a93f5a5722d0932438e846d21.c8f14d7431894464647f2b14a79eb11a&signature=37b1f32945569926a057d23d1c7069769ad2ab2d16a380f9a38029bac6d397f1
+
